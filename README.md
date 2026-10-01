@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### 2. Get the trained model
 
-Download `melanoma_model.pth` from this repository's **Releases** page and place it in the project folder. Alternatively, train your own (step 3).
+Download [`melanoma_model.pth`](https://github.com/Aniqa38/melanoma_detection/releases/download/v1.0/melanoma_model.pth) (94 MB, from the v1.0 release) and place it in the project folder. Alternatively, train your own (step 3).
 
 ### 3. Train (optional)
 
