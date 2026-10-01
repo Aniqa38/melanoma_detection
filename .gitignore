@@ -1,0 +1,8 @@
+# Trained model (download from the GitHub Releases page)
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
