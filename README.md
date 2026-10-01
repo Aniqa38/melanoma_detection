@@ -39,8 +39,8 @@ All melanoma images were correctly identified; one benign lesion was flagged as 
 ### 1. Clone the repository and install dependencies
 
 ```bash
-git clone https://github.com/aniqa38/Cassifies-skin-lesion-images-as-benign-or-melanoma.git
-cd Cassifies-skin-lesion-images-as-benign-or-melanoma
+git clone https://github.com/aniqa38/melanoma_detection.git
+cd melanoma_detection
 pip install -r requirements.txt
 ```
 
